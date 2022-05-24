@@ -1,0 +1,23 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    border: 1px solid black;
+    
+ 
+}
+
+.product{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+  
+
+}
+
+.product1{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
