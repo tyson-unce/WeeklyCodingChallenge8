@@ -1,0 +1,24 @@
+table, td, th {
+    border: 1px solid black;
+    font-size: 50px;
+
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th{
+      text-align: left;
+      width: 50px;
+    height: 50px;
+  }
+
+.stars{
+    background-color: blue;
+    color: white;
+}
+
+  
+
